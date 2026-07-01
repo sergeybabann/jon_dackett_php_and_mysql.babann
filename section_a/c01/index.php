@@ -16,6 +16,7 @@
       <tr><td>41</td><td class="title">Creating and Accessing Indexed Arrays</td><td class="link"><a href="indexed-arrays.php">indexed-arrays.php</a></td></tr>
       <tr><td>43</td><td class="title">Changing Values Stored in Arrays</td><td class="link"><a href="updating-arrays.php">updating-arrays.php</a></td></tr>
       <tr><td>44</td><td class="title">How to store arrays in an array?</td><td class="link"><a href="how_to_store_arrays_in_an_array.php">How_to_store_arrays_in_an_array?.php</a></td></tr>
+      <tr><td>44</td><td class="title">Expressions and operators</td><td class="link"><a href="expressions_and_operators.php">Expressions_and_operators.php</a></td></tr>
       <tr><td>45</td><td class="title">Multidimensional Arrays</td><td class="link"><a href="multidimensional-arrays.php">multidimensional-arrays.php</a></td></tr>
       <tr><td>47</td><td class="title">Using the Shorthand for Echo</td><td class="link"><a href="echo-shorthand.php">echo-shorthand.php</a></td></tr>
       <tr><td>51</td><td class="title">Using Arithmetic Operators</td><td class="link"><a href="arithmetic-operators.php">arithmetic-operators.php</a></td></tr>
