@@ -1,12 +1,18 @@
 <?php 
-$stock = 5;
+
+$stock = 0;
+$ordered = 3;
 
 if ($stock > 0) {
-    $message = 'In stock';
-} else {
-    $message = 'Sold out';
+  $message = 'In stock';
+} else if ($ordered > 0) {
+  $message = 'Coming soon'; 
+ } else {
+  $message = 'Sold out';
 }
+
 ?>
+
 <!DOCTYPE html>
 <html>
   <head>

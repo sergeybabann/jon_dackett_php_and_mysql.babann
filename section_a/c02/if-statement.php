@@ -1,11 +1,15 @@
 <?php 
-$name     = 'Ivy';
-$greeting = 'Hello';
+
+$name = "Sergey";
+$greeting = "Hello";
 
 if ($name !== '') {
-    $greeting = 'Welcome back, ' . $name;
+  $greeting = 'Welcome back, ' . $name;
 }
+
 ?>
+
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -16,3 +20,4 @@ if ($name !== '') {
     <h2><?= $greeting ?></h2>
   </body>
 </html>
+
