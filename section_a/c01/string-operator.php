@@ -1,12 +1,8 @@
-<?php
-
-$prefix = 'Thank you';
-$name = 'Sergey';
-$message = "$prefix $name";
-
+<?php 
+$prefix  = 'Thank you';
+$name    = 'Ivy';
+$message = $prefix . ', ' . $name;
 ?>
-
-
 <!DOCTYPE html>
 <html>
   <head>

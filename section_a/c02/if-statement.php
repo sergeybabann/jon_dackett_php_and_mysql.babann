@@ -1,14 +1,13 @@
 <?php 
 
-$name = "Sergey";
-$greeting = "Hello";
+$name = 'Ivy';
+$greeting = 'Hello';
 
-if ($name !== '') {
+if ($name ==! '') {
   $greeting = 'Welcome back, ' . $name;
 }
 
 ?>
-
 
 <!DOCTYPE html>
 <html>
@@ -20,4 +19,3 @@ if ($name !== '') {
     <h2><?= $greeting ?></h2>
   </body>
 </html>
-

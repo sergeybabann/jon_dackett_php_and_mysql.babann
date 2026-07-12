@@ -1,11 +1,8 @@
-<?php
+<?php 
+$stock   = 5;
 
-$stock = 1;
-
-$message = ($stock > 0) ? 'More stock coming soon' : 'Sold out';
-
+$message = ($stock > 0) ? 'In stock' : 'Sold out';
 ?>
-
 <!DOCTYPE html>
 <html>
   <head>
